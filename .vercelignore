@@ -1,0 +1,12 @@
+.git
+.github
+.next
+node_modules
+out
+test-results
+playwright-report
+*.tsbuildinfo
+.env*
+legacy
+examples
+tests

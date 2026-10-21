@@ -1,0 +1,32 @@
+{
+  "url": "https://structure-lab-java-visualizer.vercel.app/",
+  "checkedAt": "2026-10-19T23:41:51.065Z",
+  "viewports": [
+    {
+      "name": "desktop",
+      "pageWidth": 1366,
+      "pageHeight": 768,
+      "viewportWidth": 1366,
+      "viewportHeight": 768,
+      "fonts": true,
+      "playback": 742,
+      "runtimeErrors": [],
+      "failedRequests": [],
+      "chain": "load → DFS → BFS",
+      "path": "A → B → D"
+    },
+    {
+      "name": "mobile",
+      "pageWidth": 390,
+      "pageHeight": 844,
+      "viewportWidth": 390,
+      "viewportHeight": 844,
+      "fonts": true,
+      "playback": 824,
+      "runtimeErrors": [],
+      "failedRequests": [],
+      "chain": "load → DFS → BFS",
+      "path": "A → B → D"
+    }
+  ]
+}

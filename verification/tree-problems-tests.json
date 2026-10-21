@@ -1,0 +1,59 @@
+{
+  "verifiedAt": "2026-10-20T18:52:23.673656+00:00",
+  "typecheck": "passed",
+  "productionStaticBuild": "passed",
+  "unit": {
+    "total": 217,
+    "treeProblems": 58,
+    "status": "passed"
+  },
+  "playwright": {
+    "total": 92,
+    "treeProblems": 22,
+    "devices": [
+      "desktop Chromium 1440x1050",
+      "mobile Chromium 390x844"
+    ],
+    "status": "passed",
+    "fullRun": "92 passed (2.4m)"
+  },
+  "java": {
+    "programs": 8,
+    "runtime": "Java 21",
+    "inputModes": [
+      "System.in",
+      "file argument"
+    ],
+    "status": "passed",
+    "edgeCases": [
+      "all 5 original PDF testcases",
+      "N=1 and repeated root queries",
+      "shuffled labels and edge order",
+      "N=10000 chain with reversed edges",
+      "N=10000 star with reversed edges"
+    ]
+  },
+  "pdfCases": {
+    "leaves": [
+      "#1: 3",
+      "#2: 1",
+      "#3: 1"
+    ],
+    "depth": [
+      "#1: 0 2 1",
+      "#2: 3 1"
+    ]
+  },
+  "limits": {
+    "T": 10,
+    "N": 10000,
+    "Q": 10000,
+    "allStatementDetailNAndQ": 80,
+    "visibleLargeTreeNodes": 48,
+    "visibleFrontier": 32
+  },
+  "notes": [
+    "JavaScript step replay, not an in-browser JVM",
+    "Large traces use explicit checkpoints; numeric results and operation metrics are fully computed"
+  ]
+}

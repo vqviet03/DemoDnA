@@ -1,0 +1,50 @@
+{
+  "url": "https://dnademo.eeslern.com/grid/",
+  "verifiedAt": "2026-10-20T11:00:11.202Z",
+  "checks": [
+    {
+      "device": "desktop",
+      "status": 200,
+      "viewport": [
+        1366,
+        768
+      ],
+      "noPageOverflow": true,
+      "manualExpectedMismatch": true,
+      "actualPrintedByReplay": true,
+      "shortestOutput": "5",
+      "frontier": true,
+      "resizeOrCodeTab": true,
+      "projectionFontPx": 21,
+      "projectionScale": 140,
+      "codeWrap": true,
+      "displayPreservesStep": true,
+      "compactReports": true,
+      "directReload": true,
+      "originalPageNavigation": true,
+      "runtimeErrors": []
+    },
+    {
+      "device": "mobile",
+      "status": 200,
+      "viewport": [
+        390,
+        844
+      ],
+      "noPageOverflow": true,
+      "manualExpectedMismatch": true,
+      "actualPrintedByReplay": true,
+      "shortestOutput": "5",
+      "frontier": true,
+      "resizeOrCodeTab": true,
+      "projectionFontPx": 21,
+      "projectionScale": 140,
+      "codeWrap": true,
+      "displayPreservesStep": true,
+      "compactReports": true,
+      "directReload": true,
+      "originalPageNavigation": true,
+      "runtimeErrors": []
+    }
+  ]
+}

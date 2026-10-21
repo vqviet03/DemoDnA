@@ -1,0 +1,59 @@
+{
+  "url": "https://dnademo.eeslern.com/",
+  "checkedAt": "2026-10-20T00:16:48.421Z",
+  "productionHTMLMatchesExport": true,
+  "results": [
+    {
+      "name": "desktop",
+      "vertices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": 1,
+      "goal": 7,
+      "path": [
+        1,
+        2,
+        4,
+        7
+      ],
+      "javaKeyType": "Integer",
+      "pageHeight": 768,
+      "pageWidth": 1366,
+      "viewportHeight": 768,
+      "viewportWidth": 1366,
+      "errors": []
+    },
+    {
+      "name": "mobile",
+      "vertices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "start": 1,
+      "goal": 7,
+      "path": [
+        1,
+        2,
+        4,
+        7
+      ],
+      "javaKeyType": "Integer",
+      "pageHeight": 844,
+      "pageWidth": 390,
+      "viewportHeight": 844,
+      "viewportWidth": 390,
+      "errors": []
+    }
+  ]
+}

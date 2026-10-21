@@ -1,0 +1,46 @@
+{
+  "source": "de_bai_text.pdf",
+  "providedInputs": 7,
+  "solutions": {
+    "coloring/mask": [
+      "#1 18",
+      "#2 9",
+      "#3 22",
+      "#4 15",
+      "#5 19"
+    ],
+    "coloring/dfs": [
+      "#1 18",
+      "#2 9",
+      "#3 22",
+      "#4 15",
+      "#5 19"
+    ],
+    "coloring/subset": [
+      "#1 18",
+      "#2 9",
+      "#3 22",
+      "#4 15",
+      "#5 19"
+    ],
+    "origami/fold": [
+      "#1 16",
+      "#2 31"
+    ],
+    "origami/mapping": [
+      "#1 16",
+      "#2 31"
+    ],
+    "origami/layers": [
+      "#1 16",
+      "#2 31"
+    ]
+  },
+  "javaPrograms": 6,
+  "javaInputModes": [
+    "System.in",
+    "file argument"
+  ],
+  "coloringJavaCasesPerSolution": 12,
+  "origamiJavaCasesPerSolution": 14
+}

@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-10-20T00:17:01.369070+00:00",
+  "unitTests": 88,
+  "browserTests": 24,
+  "javaPrograms": 68,
+  "immutableChainedSnapshots": true,
+  "stagingHTMLIdenticalToTestedExport": true,
+  "publicBrowserReport": "live-browser-verification.json",
+  "productionHTMLMatchesTestedExport": true,
+  "matrixSevenNodesVisibleAt1366x768": true,
+  "allEightVariablesVisibleAt1366x768": true,
+  "graphBrowserRegressionTests": 6,
+  "graphJavaPrograms": 26,
+  "numericGraphReport": "graph-example-verification.json",
+  "productionURL": "https://dnademo.eeslern.com/"
+}

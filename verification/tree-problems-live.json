@@ -1,0 +1,28 @@
+{
+  "url": "https://dnademo.eeslern.com/problems/",
+  "verifiedAt": "2026-10-20T18:53:05.466Z",
+  "checks": [
+    "desktop: leaves/degree matches every PDF testcase, full output includes colon",
+    "desktop: leaves/parents-set matches every PDF testcase, full output includes colon",
+    "desktop: leaves/leaf-bfs matches every PDF testcase, full output includes colon",
+    "desktop: leaves/leaf-dfs matches every PDF testcase, full output includes colon",
+    "desktop: leaves tree, memory, current line and playback fit the viewport",
+    "desktop: depth/parent-walk matches every PDF testcase, full output includes colon",
+    "desktop: depth/depth-bfs matches every PDF testcase, full output includes colon",
+    "desktop: depth/depth-dfs matches every PDF testcase, full output includes colon",
+    "desktop: depth/memo-depth matches every PDF testcase, full output includes colon",
+    "desktop: depth tree, memory, current line and playback fit the viewport",
+    "mobile: leaves/degree matches every PDF testcase, full output includes colon",
+    "mobile: leaves/parents-set matches every PDF testcase, full output includes colon",
+    "mobile: leaves/leaf-bfs matches every PDF testcase, full output includes colon",
+    "mobile: leaves/leaf-dfs matches every PDF testcase, full output includes colon",
+    "mobile: leaves tree, memory, current line and playback fit the viewport",
+    "mobile: depth/parent-walk matches every PDF testcase, full output includes colon",
+    "mobile: depth/depth-bfs matches every PDF testcase, full output includes colon",
+    "mobile: depth/depth-dfs matches every PDF testcase, full output includes colon",
+    "mobile: depth/memo-depth matches every PDF testcase, full output includes colon",
+    "mobile: depth tree, memory, current line and playback fit the viewport",
+    "Original Bài 9–10 PDF available anonymously"
+  ],
+  "errors": []
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://dnademo.eeslern.com/problems/",
+  "verifiedAt": "2026-10-20T18:52:33.288Z",
+  "checks": [
+    "Public /problems/ loads anonymously, fonts and scripts hydrate",
+    "Origami rotates continuously around a crease with real double-sided layers",
+    "Original paper and translucent folded layers track the same two hidden contributors (2 + 4 = 6)",
+    "All three coloring methods match the five original PDF testcases on production",
+    "Original PDF served at /problems/de_bai_text.pdf",
+    "Both paper views and hidden-layer tracking remain visible on mobile",
+    "Mobile visualization, code, variables, result and playback fit the viewport"
+  ],
+  "errors": []
+}
